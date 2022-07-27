@@ -1,5 +1,21 @@
-# News-Paper-Assistant
+# News Paper Assistant
 
+## ABOUT JavaFX
+
+JavaFX is a software platform intended to replace Swing in creating and delivering rich internet applications that operate consistently across diverse platforms. Applications built in JavaFX, can run on multiple platforms including Web, Mobile and Desktops.
+
+**Features**:
+- FXML & SceneBuilder: A designer can code in FXML or use JavaFX Scene Builder to interactively design the graphical user interface (GUI). Scene Builder generates FXML markup that can be ported to an IDE where a developer can add the business logic.
+- Web view: Web pages can be embedded with JavaFX applications. Web View uses WebKitHTML technology to embed web pages.
+- Built-in UI controls and CSS: JavaFX provides all the major UI controls required to develop a full-featured application. Components can be skinned with standard Web technologies such as CSS.
+- Swing interoperability: JavaFX applications can be embedded with swing code using the Swing Node class. We can update the existing swing application with the powerful features of JavaFX.
+
+## APPLICATION
+
+This is a Newspaper management system made with JavaFX. 
+Data is stored in local database and is accessed using MySQl queires using **JDBC**.
+
+## SCREENSHOTS
 <div>
  <img src="https://user-images.githubusercontent.com/56411093/167541835-f466a80b-03f0-48a8-a2a7-2ab16b80b7dc.png" height=400>
  <br/>
